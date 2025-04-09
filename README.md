@@ -23,7 +23,7 @@ As a hypothetical applicant for this role, I was tasked with:
 
 **3. Actionable Insights:**
 
-*Provided actionable insights and recommendations to assist the management team in making informed decisions.
+* Provided actionable insights and recommendations to assist the management team in making informed decisions.
 
 ## **Outcome**
 Through this project, I demonstrated my ability to handle complex data queries and present findings in an engaging and insightful manner. This experience not only honed my technical skills but also enhanced my ability to communicate data-driven insights effectively.
@@ -32,10 +32,5 @@ Through this project, I demonstrated my ability to handle complex data queries a
 * Que. ad-hoc-requests.pdf: Document containing the 10 ad hoc business requests.
 * SQL Queries: Folder containing SQL scripts used to extract data.
 
-## **How to Use**
-**1. SQL Queries:**
 
-* Navigate to the SQL Queries folder.
-* Run the SQL scripts in your MySQL environment to extract the necessary data.
-
-This project is a demonstration of my skills in data analysis, SQL querying, data visualization, and presentation design in a business context. It showcases my ability to derive and communicate actionable insights from data, which is crucial for data-driven decision-making in a corporate environment.
+**This project highlights my proficiency in data analysis, SQL querying, data visualization, and presentation design within a business context. It demonstrates my ability to extract actionable insights from data and effectively communicate them to support data-driven decision-making in a corporate environment.**
