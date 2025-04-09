@@ -8,14 +8,14 @@ AtliQ Hardwares identified a gap in their ability to make quick, smart data-info
 ## **My Task**
 As a hypothetical applicant for this role, I was tasked with:
 
-* Reviewing the ad-hoc-requests.pdf, which contained 10 ad hoc business requests requiring insights.
+* Reviewing the SQL Challenge Ad-Hoc-Requests.txt, which contained 10 ad hoc business requests requiring insights.
 * Writing and executing SQL queries to answer these requests.
 * Creating a presentation to showcase these insights, targeting top-level management.
 
 ## **My Approach**
 **1. Data Extraction with SQL:**
 
-* Utilized MySQL to run queries and pull the necessary data.
+* Utilized MySQL Workbench to run queries and pull the necessary data.
 
 **2. Presentation Design:**
 
@@ -29,7 +29,7 @@ As a hypothetical applicant for this role, I was tasked with:
 Through this project, I demonstrated my ability to handle complex data queries and present findings in an engaging and insightful manner. This experience not only honed my technical skills but also enhanced my ability to communicate data-driven insights effectively.
 
 ## **Files in this Repository**
-* Que. ad-hoc-requests.pdf: Document containing the 10 ad hoc business requests.
+* SQL Challenge Ad-Hoc-Requests.txt: Document containing the 10 ad hoc business requests.
 * SQL Queries: Folder containing SQL scripts used to extract data.
 
 
